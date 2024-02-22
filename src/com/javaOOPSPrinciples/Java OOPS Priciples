@@ -1,0 +1,18 @@
+1. Encapsulation: wrapping related class properties(fields and methods) into one unit. 
+
+Example: java class.
+
+2. Inheritance: reusing the properties of one(parent/base/super) class 
+                from another(child/derived/sub) class.
+                
+
+Types of Inheritance: 5 types
+
+1. single
+2. multiple
+3. multilevel
+4. hierarchical
+5. hybrid
+
+            
+                
